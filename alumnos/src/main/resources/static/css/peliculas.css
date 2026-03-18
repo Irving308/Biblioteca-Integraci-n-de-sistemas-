@@ -1,0 +1,29 @@
+body {
+    background-color: #e3f2fd;
+    font-family: Arial, sans-serif;
+}
+
+.navbar {
+    background-color: #1565c0 !important;
+}
+
+.navbar .btn-outline-success {
+    color: #ffffff;
+    border-color: #ffffff;
+}
+
+.navbar .btn-outline-success:hover {
+    background-color: #ffffff;
+    color: #1565c0;
+}
+
+#table {
+    margin-top: 40px;
+    max-width: 520px;
+}
+
+#table .table thead.table-light th {
+    background-color: #1565c0;
+    color: #ffffff;
+    border-color: #0d47a1;
+}

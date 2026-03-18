@@ -18,7 +18,7 @@ import com.uam.cua.tysi.integracion.alumnos.service.IMangaService;
 
 @RestController
 @RequestMapping("/mangas")
-public class MangaController {
+public class    MangaController {
 
     @Autowired
     private IMangaService mangaService;
